@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benbo212
-- 👀 I’m interested in Full Stack Devolpement, Mechanical Engineering
+- 👀 I’m interested in Full Stack Devolpement, and Mechanical Engineering
 - 🌱 I’m currently learning HTML, CSS, Javascript, Matlab, Python
 - 📫 How to reach me Benbo212@gmail.com
 
